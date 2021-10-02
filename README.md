@@ -1,6 +1,3 @@
-# artificialwebmaterials
-Artificial Web Materials
-
 <h1 align="center">Artificial Web</h1>
 
 >Artificial Web Materials
